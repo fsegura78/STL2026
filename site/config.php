@@ -142,7 +142,7 @@ $session_expire_after = 30;
  * TRUE back to a FALSE!
  */
 
-$setup_free_access = FALSE;
+$setup_free_access = TRUE;
 
 /*
  * ******************************************************************************
@@ -190,7 +190,7 @@ $sub_directory = '';
  * @fixes https://github.com/geoffhumphrey/brewcompetitiononlineentry/issues/1123
  */
 
-$base_url = 'http://';
+$base_url = 'http://localhost/dashboard//';
 if (is_https()) $base_url = 'https://';
 $base_url .= $_SERVER['SERVER_NAME'].$sub_directory.'/';
 
