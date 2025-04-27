@@ -31,7 +31,7 @@ $hostname = 'localhost';
  */
 
 
-$username = '';
+$username = 'fsegura78';
 
 
 /**
@@ -40,7 +40,7 @@ $username = '';
  * $password = 'flintsone'.
  */
 
-$password = '';
+$password = '01.Silvia01';
 
 /**
  * The following line is the name of your MySQL database you set up already.
