@@ -48,7 +48,7 @@ $password = '01.Silvia01';
  * http://brewingcompetitions.com/install-instructions for setup instructions.
  */
 
-$database = '';
+$database = 'stl_bd';
 
 
 /**
